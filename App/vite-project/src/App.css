@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.table {
+  height: 100%;
+  width: 100%;
+  padding: 2em;
+}
+
+.headers > * {
+  background: #000;
+  color: #fff;
+  padding: 1em;
+}
+
+.table-data > * {
+  padding: 1em;
+  border-bottom: 2px solid #dcdcdc;
+}
